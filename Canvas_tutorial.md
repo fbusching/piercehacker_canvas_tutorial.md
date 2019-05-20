@@ -1,1 +1,2 @@
-# POOPOOCatchoo
+# Canvas Assignment Tips and Tricks
+
