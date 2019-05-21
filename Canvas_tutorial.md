@@ -8,7 +8,7 @@ authors:
 date: 2016-01-15
 reviewers:
 -
-layout: lesson
+layout: Tutorial
 difficulty level: Low to Intermediate
 ---
 
