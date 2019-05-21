@@ -22,11 +22,15 @@ Canvas can be a confusng website/program to work with. It being web-based tends 
 
 * Uploading assignments through your Files tab, disscusion boards, and your Inbox tab.
 * Previewing your assignment the way your teacher will see it.
-* 
+* Opening discussion of polite and appropriate etiquette when conversing with your proffesors. 
+* Adding attachments to messages.
+* How to access the STAT and Writing Center Teams on Canvas.
+* Learning the differences of the Desktop from the Mobile versions of Canvas.
 
 ## Materials
 
-What materials (software, etc.) do people need in order to complete the lesson?
+- Personal Computer
+- *Optional:* Smart Phone
 
 ## Overview
 
