@@ -12,7 +12,7 @@ layout: Tutorial
 difficulty level: Low to Intermediate
 ---
 
-![Canvas Logo](https://its.unl.edu/images/services/icons/Canvas%20Icon-F-01-01.png)
+<img src="https://its.unl.edu/images/services/icons/Canvas%20Icon-F-01-01.png" width="760" height="760"> 
 
 ## Lesson Abstact
 
@@ -34,7 +34,7 @@ Canvas can be a confusng website/program to work with. It being web-based tends 
 
 ## Overview
 
-This section may include an introduction to key ideas, concepts, or rationale for the lesson. For example, if you were doing a lesson on Zotero, piece of free bibliographic software, you would explain what what Zotero is, why it might be useful for learning to use, etc.
+
 
 ## Lesson Steps/Components [as many as needed]
 
