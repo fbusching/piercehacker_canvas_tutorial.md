@@ -38,6 +38,21 @@ Canvas can be a confusng website/program to work with. It being web-based tends 
 
 ## Lesson Steps/Components [as many as needed]
 
+#### How to access your Files tab:
+
+*It is very important to store your files is more than one place. A loss of these files could be very inconvenient.*
+
+In your files in canvas, the files stored there are formatted in the exact way that the professor you are submitting to sees it. The file is previewed in the perspective of the professor.
+
+1. To access to the Files tab, go to the **Account** tab and click on **Files**.
+
+2. After hitting that, you will be sent to your **Files** tab. In the files tab, you will be able to do a few things.
+     - You can upload assignments into your files. At the top right of the screen, there should be a blue 
+
+<img src="https://lh4.googleusercontent.com/IsfSNGFlOJ8mlI5xHfyniGN_dzntSGBntNdPlJSQkSQjgum75m0x_LaUZgj_brpCXvYNPUHUXuRFoXWFxwet7k-yaLwR-tCARhz8i75-=s1030" width="806" height="312"> 
+
+2. 
+
 ## Credits, Further Reading, etc.
 
 * You may find it necessary to reference and cite information from another source.
