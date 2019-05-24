@@ -95,7 +95,7 @@ In your files in canvas, the files stored there are formatted in the exact way t
 1. To access to the Files tab, go to the **Account** tab and click on **Files**.
 
 2. After hitting that, you will be sent to your **Files** tab. In the files tab, you will be able to do a few things.
-     - You can upload assignments into your files. At the top right of the screen, there should be a blue 
+     - You can upload assignments into your files. At the top right of the screen, there should be a blue <font color="blue">Upload</font> symbol
 
 <img src="https://lh4.googleusercontent.com/IsfSNGFlOJ8mlI5xHfyniGN_dzntSGBntNdPlJSQkSQjgum75m0x_LaUZgj_brpCXvYNPUHUXuRFoXWFxwet7k-yaLwR-tCARhz8i75-=s1030" width="806" height="312"> 
 
